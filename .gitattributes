@@ -1,0 +1,16 @@
+* text=auto eol=lf
+*.txt text
+*.c text
+*.h text
+*.pl text
+*.py text
+*.yml text
+*.log text
+*.ksh text 
+*.sh text
+
+
+# Data
+#*.jpg binary
+#*.png binary
+#*.data binary
