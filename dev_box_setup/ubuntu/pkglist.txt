@@ -1,0 +1,11 @@
+build-essential
+git
+tmux
+neovim
+htop
+net-tools
+openssh-server
+curl
+fzf
+ripgrep
+fd-find

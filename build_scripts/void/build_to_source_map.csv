@@ -1,0 +1,76 @@
+filename,source_path,build_path,status,Notes
+DOMN_MAIN.c,sw/dcp/DOMN_MAIN.c,,add,changed
+GOMN_MAIN.c,sw/dcp/GOMN_MAIN.c,,add,changed
+DFFD_MAIN.c,sw/dcp/DFFD_MAIN.c,,add,changed
+DFAC_MAIN.c,sw/dcp/DFAC_MAIN.c,,add,changed
+RXRM_MAIN.c,sw/dcp/RXRM_MAIN.c,,add,changed
+RXRD_MAIN.c,sw/dcp/RXRD_MAIN.c,,add,changed
+DMMR_MAIN.c,sw/rtc/DMMR_MAIN.c,,add,changed
+RXRI.c,sw/dcp/RXRI.c,,add,changed
+RXRL.c,sw/dcp/RXRL.c,,add,changed
+RXR1.c,sw/dcp/RXR1.c,,add,changed
+RXR3.c,sw/dcp/RXR3.c,,add,changed
+RXRS.c,sw/dcp/RXRS.c,,add,changed
+RXHC.c,sw/dcp/RXHC.c,,add,changed
+RXGP.c,sw/dcp/RXGP.c,,add,changed
+RXDV.c,sw/dcp/RXDV.c,,add,changed
+RXGE.c,sw/dcp/RXGE.c,,add,changed
+RXRI_rcvr_cmds.h,sw/dcp/RXRI_rcvr_cmds.h,,add,changed
+RX_RXRM_interface.h,sw/dcp/RX_RXRM_interface.h,,add,changed
+RX_RXRM_types.h,sw/dcp/RX_RXRM_types.h,,add,changed
+RX_G3_logs.h,sw/dcp/RX_G3_logs.h,,add,changed
+RX_RXRD_interface.h,sw/dcp/RX_RXRD_interface.h,,add,changed
+RX_RXRD_types.h,sw/dcp/RX_RXRD_types.h,,add,changed
+RXDV_recording.h,sw/dcp/RXDV_recording.h,,add,changed
+DC_AC_RX_status.h,sw/dcp/DC_AC_RX_status.h,,add,changed
+DC_rcv_fault_data.h,sw/dcp/DC_rcv_fault_data.h,,add,changed
+DC_osp.h,sw/dcp/DC_osp.h,,add,changed
+DODS.c,sw/dcp/DODS.c,,add,changed
+DOMS.c,sw/dcp/DOMS.c,,add,changed
+DFFD_DCP_LRU_conditions.h,sw/dcp/DFFD_DCP_LRU_conditions.h,,add,changed
+DO_DODS_message_handling.h,sw/dcp/DO_DODS_message_handling.h,,add,changed
+DO_DOMS_mode_switch.h,sw/dcp/DO_DOMS_mode_switch.h,,add,changed
+DOSS_lru_fault_text.c,sw/dcp/DOSS_lru_fault_text.c,,add,changed
+DO_xOMN_display_data.h,sw/dcp/DO_xOMN_display_data.h,,add,changed
+xOMN_display_data.c,sw/dcp/xOMN_display_data.c,,add,changed
+WAAS_rcv_status_types.h,sw/waas/WAAS_rcv_status_types.h,,add,changed
+WAAS_dcp_msgs.h,sw/waas/WAAS_dcp_msgs.h,,add,changed
+WAAS_dcp_ssp.h,sw/waas/WAAS_dcp_ssp.h,,add,changed
+WAAS_LxUT_types.h,sw/waas/WAAS_LxUT_types.h,,add,changed
+WAAS_capacities.h,sw/waas/WAAS_capacities.h,,add,changed
+WAAS_equipment.h,sw/waas/WAAS_equipment.h,,add,changed
+WAAS_RXRD_message_ids.h,sw/waas/WAAS_RXRD_message_ids.h,,add,changed
+WAAS_DODS_message_ids.h,sw/waas/WAAS_DODS_message_ids.h,,add,changed
+CDWS.c,sw/om/CDWS.c,,add,changed
+MWSE_lru.c,sw/om/MWSE_lru.c,,add,changed
+MWSE_wrefaults.dat,sw/om/MWSE_wrefaults.dat,,add,changed
+MWTC.c,sw/om/MWTC.c,,add,changed
+MWTO_subsystem.c,sw/om/MWTO_subsystem.c,,add,changed
+OM_cd_types.h,sw/om/OM_cd_types.h,,add,changed
+MWTO_top_level.c,sw/om/MWTO_top_level.c,,add,changed
+MWIN_mode_switch.c,sw/om/MWIN_mode_switch.c,,add,changed
+DC_status.txt,sw/elmg_mgen/DC_status.txt,,add,changed
+OSP_DCP.add,sw/adapt/OSP_DCP.add,,add,changed
+NSC_NSCwaas_wzfwwrs1c1.add,sw/adapt/NSC_NSCwaas_wzfwwrs1c1.add,,add,changed
+SC_SCSwaas_wzfwwrs1c1.add,sw/adapt/SC_SCSwaas_wzfwwrs1c1.add,,add,changed
+NSC_NSCwaas_wzfwwrs2c1.add,sw/adapt/NSC_NSCwaas_wzfwwrs2c1.add,,add,changed
+SC_SCSwaas_wzfwwrs2c1.add,sw/adapt/SC_SCSwaas_wzfwwrs2c1.add,,add,changed
+NSC_NSCwaas_wzfwwrs3c1.add,sw/adapt/NSC_NSCwaas_wzfwwrs3c1.add,,add,changed
+SC_SCSwaas_wzfwwrs3c1.add,sw/adapt/SC_SCSwaas_wzfwwrs3c1.add,,add,changed
+ether.dat,packages/1config/data/ether.dat,,add,changed
+do_machine_id.ksh,packages/1config/scripts/do_machine_id.ksh,,add,changed
+1config.rev,packages/1config/1config.rev,,add,changed
+WAAS_CDI3_message_ids.h,sw/waas/WAAS_CDI3_message_ids.h ,,add,changed
+WAAS_CDIN_message_ids.h,sw/waas/WAAS_CDIN_message_ids.h ,,add,changed
+CD_cdp3.h,sw/om/CD_cdp3.h ,,add,changed
+CDP3.c,sw/om/CDP3.c ,,add,changed
+CDWS.c,sw/om/CDWS.c ,,add,changed
+CDI3_MAIN.c,sw/om/CDI3_MAIN.c ,,add,changed
+CDIN_MAIN.c,sw/om/CDIN_MAIN.c ,,add,changed
+MWTO_logical_map.g,packages/glg/glg/MWTO_logical_map.g ,,add,changed
+MWTO_wrs_map.g,packages/glg/glg/MWTO_wrs_map.g ,,add,changed
+glg.config,packages/glg/glg.config ,,add,changed
+glg.rev,packages/glg/glg.rev ,,add,changed
+RXRI_rcvr_cmds.h,sw/dcp/RXRI_rcvr_cmds.h,,add,new
+RXGB.c,sw/dcp/RXGB.c,,add,new
+RX_RXGB_interface.h,sw/dcp/RX_RXGB_interface.h,,add,new

@@ -1,0 +1,4 @@
+filename,source_path,build_path,Status,Notes
+file01.c,sw/dcp/,main_source/,add,changed
+file02.c,sw/om/,lib_source/,add,changed
+file03.g,packages/glg/,packages/glg/glg_files/,add,new

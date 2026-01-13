@@ -1,0 +1,18 @@
+ Jonathan/Documents/
+ Jonathan/FinML/
+ Jonathan/Games/
+ Jonathan/@Home/
+ Jonathan/_Inbox/
+ Jonathan/Library/
+ Jonathan/Music/
+ Jonathan/old_computers/
+ Jonathan/Photos/
+ Jonathan/Projects/
+ Jonathan/Scans/
+ Jonathan/Software/
+ Jonathan/src/
+ Jonathan/Taxes/
+ Jonathan/@Tools/
+ Jonathan/Videos/
+ Jonathan/Wedding Planning/
+ Jonathan/Z_Archive/

@@ -1,0 +1,34 @@
+# Work
+Host modok modok.faa.gov
+   User jlooper  
+   StrictHostKeyChecking no
+   HostName modok.faa.gov
+
+Host cgateway cgateway.waas.lab
+   User jlooper  
+   ProxyJump modok.faa.gov
+   StrictHostKeyChecking no
+
+Host lccn lccn.waas.lab
+   User jlooper
+   UserKnownHostsFile /dev/null 
+   ProxyJump modok.faa.gov
+   StrictHostKeyChecking no
+
+Host waasccserv3 waasccserv3.faa.gov
+   User jlooper	
+   ProxyJump modok.faa.gov	
+   StrictHostKeyChecking no
+   ForwardX11 yes
+   ForwardAgent yes
+   HostKeyAlgorithms=+ssh-rsa
+   
+#Configuration of target host
+Host *.waas.lab
+   User jlooper
+   ProxyJump modok.faa.gov
+   StrictHostKeyChecking no
+   HostKeyAlgorithms=+ssh-rsa
+
+Host * 
+   ForwardAgent yes

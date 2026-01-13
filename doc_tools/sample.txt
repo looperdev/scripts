@@ -1,0 +1,100 @@
+WID_SD_ICD_909_V11.pdf:58:            WAAS_PCU_A                             Power Conditioner Unit A
+WID_SD_ICD_909_V11.pdf:58:            WAAS_PCU_B                             Power Conditioner Unit B
+WID_SD_ICD_909_V11.pdf:58:            WAAS_PCU_C                             Power Conditioner Unit C
+WID_SD_ICD_909_V11.pdf:58:            WAAS_PCU_D                             Power Conditioner Unit D
+WID_SD_ICD_909_V11.pdf:58:            WAAS_PCU_E                             Power Conditioner Unit E
+WID_SD_ICD_909_V11.pdf:58:            WAAS_PCU_F                             Power Conditioner Unit F
+WID_SD_ICD_909_V11.pdf:58:            WAAS_PCU_G                             Power Conditioner Unit G
+WID_SD_ICD_909_V11.pdf:58:            WAAS_PCU_H                             Power Conditioner Unit H
+WID_SD_ICD_909_V11.pdf:58:            WAAS_PCU_I                             Power Conditioner Unit I
+WID_SD_ICD_909_V11.pdf:59:       WAAS_PCU_CONTROLLER                     Power Conditioner Unit Controller
+WID_SD_ICD_909_V11.pdf:59:       WAAS_PCU_RECEPTABLE_1                   Power Conditioner Unit Receptacle 1
+WID_SD_ICD_909_V11.pdf:59:       WAAS_PCU_RECEPTABLE_2                   Power Conditioner Unit Receptacle 2
+WID_SD_ICD_909_V11.pdf:59:       WAAS_PCU_RECEPTABLE_3                   Power Conditioner Unit Receptacle 3
+WID_SD_ICD_909_V11.pdf:59:       WAAS_PCU_RECEPTABLE_4                   Power Conditioner Unit Receptacle 4
+WID_SD_ICD_909_V11.pdf:59:       WAAS_PCU_RECEPTABLE_5                   Power Conditioner Unit Receptacle 5
+WID_SD_ICD_909_V11.pdf:59:       WAAS_PCU_RECEPTABLE_6                   Power Conditioner Unit Receptacle 6
+WID_SD_ICD_909_V11.pdf:59:       WAAS_PCU_RECEPTABLE_7                   Power Conditioner Unit Receptacle 7
+WID_SD_ICD_909_V11.pdf:59:       WAAS_PCU_RECEPTABLE_8                   Power Conditioner Unit Receptacle 8
+WID_SD_ICD_909_V11.pdf:81:The PCU trap information. This element is a union.
+WID_SD_ICD_909_V11.pdf:81:          MW_PCU_RECEPTACLE_OFF                      Receptacle off
+WID_SD_ICD_909_V11.pdf:81:          MW_PCU_RECEPTACLE_ON                       Receptacle on
+WID_SD_ICD_909_V11.pdf:81:          MW_PCU_RECEPTACLE_OFF_TO_ON                Receptacle off to on
+WID_SD_ICD_909_V11.pdf:81:          MW_PCU_RECEPTACLE_ON_TO_OFF                Receptacle on to off
+WID_SD_ICD_909_V11.pdf:81:          MW_PCU_RECEPATCLE_CYCLES_SCHEDULED Receptacle cycles scheduled
+WID_SD_ICD_909_V11.pdf:94:              WAAS_PCU_A                        Power Conditioner Unit A
+WID_SD_ICD_909_V11.pdf:94:              WAAS_PCU_B                        Power Conditioner Unit B
+WID_SD_ICD_909_V11.pdf:94:              WAAS_PCU_C                        Power Conditioner Unit C
+WID_SD_ICD_909_V11.pdf:94:              WAAS_PCU_D                        Power Conditioner Unit D
+WID_SD_ICD_909_V11.pdf:94:              WAAS_PCU_E                        Power Conditioner Unit E
+WID_SD_ICD_909_V11.pdf:94:              WAAS_PCU_F                        Power Conditioner Unit F
+WID_SD_ICD_909_V11.pdf:94:              WAAS_PCU_G                        Power Conditioner Unit G
+WID_SD_ICD_909_V11.pdf:94:              WAAS_PCU_H                        Power Conditioner Unit H
+WID_SD_ICD_909_V11.pdf:94:              WAAS_PCU_I                        Power Conditioner Unit I
+WID_SD_ICD_909_V11.pdf:96:              WAAS_PCU_A                        Power Conditioner Unit A
+WID_SD_ICD_909_V11.pdf:96:              WAAS_PCU_B                        Power Conditioner Unit B
+WID_SD_ICD_909_V11.pdf:96:              WAAS_PCU_C                        Power Conditioner Unit C
+WID_SD_ICD_909_V11.pdf:96:              WAAS_PCU_D                        Power Conditioner Unit D
+WID_SD_ICD_909_V11.pdf:96:              WAAS_PCU_E                        Power Conditioner Unit E
+WID_SD_ICD_909_V11.pdf:96:              WAAS_PCU_F                        Power Conditioner Unit F
+WID_SD_ICD_909_V11.pdf:96:              WAAS_PCU_G                        Power Conditioner Unit G
+WID_SD_ICD_909_V11.pdf:96:              WAAS_PCU_H                        Power Conditioner Unit H
+WID_SD_ICD_909_V11.pdf:96:              WAAS_PCU_I                        Power Conditioner Unit I
+WID_SD_ICD_909_V11.pdf:103:            WAAS_PCU_A                        Power Conditioner Unit A
+WID_SD_ICD_909_V11.pdf:103:            WAAS_PCU_B                        Power Conditioner Unit B
+WID_SD_ICD_909_V11.pdf:103:            WAAS_PCU_C                        Power Conditioner Unit C
+WID_SD_ICD_909_V11.pdf:103:            WAAS_PCU_D                        Power Conditioner Unit D
+WID_SD_ICD_909_V11.pdf:103:            WAAS_PCU_E                        Power Conditioner Unit E
+WID_SD_ICD_909_V11.pdf:103:            WAAS_PCU_F                        Power Conditioner Unit F
+WID_SD_ICD_909_V11.pdf:103:            WAAS_PCU_G                        Power Conditioner Unit G
+WID_SD_ICD_909_V11.pdf:103:            WAAS_PCU_H                        Power Conditioner Unit H
+WID_SD_ICD_909_V11.pdf:103:            WAAS_PCU_I                        Power Conditioner Unit I
+WID_SD_ICD_909_V11.pdf:104:       WAAS_PCU_CONTROLLER                             Power Conditioner Unit Controller
+WID_SD_ICD_909_V11.pdf:104:       WAAS_PCU_RECEPTABLE_1                           Power Conditioner Unit Receptacle 1
+WID_SD_ICD_909_V11.pdf:104:       WAAS_PCU_RECEPTABLE_2                           Power Conditioner Unit Receptacle 2
+WID_SD_ICD_909_V11.pdf:104:       WAAS_PCU_RECEPTABLE_3                           Power Conditioner Unit Receptacle 3
+WID_SD_ICD_909_V11.pdf:104:       WAAS_PCU_RECEPTABLE_4                           Power Conditioner Unit Receptacle 4
+WID_SD_ICD_909_V11.pdf:104:       WAAS_PCU_RECEPTABLE_5                           Power Conditioner Unit Receptacle 5
+WID_SD_ICD_909_V11.pdf:104:       WAAS_PCU_RECEPTABLE_6                           Power Conditioner Unit Receptacle 6
+WID_SD_ICD_909_V11.pdf:104:       WAAS_PCU_RECEPTABLE_7                           Power Conditioner Unit Receptacle 7
+WID_SD_ICD_909_V11.pdf:104:       WAAS_PCU_RECEPTABLE_8                           Power Conditioner Unit Receptacle 8
+WID_SD_ICD_909_V11.pdf:125:PCU trap information. A structure of type MW_PC_TRAP_TYPE.
+WID_SD_ICD_909_V11.pdf:126:  MW_PCU_RECEPTACLE_OFF                      The power receptacle is off
+WID_SD_ICD_909_V11.pdf:126:  MW_PCU_RECEPTACLE_ON                       The power receptacle is on
+WID_SD_ICD_909_V11.pdf:126:  MW_PCU_RECEPTACLE_OFF_TO_ON                The power receptacle is going from off to on
+WID_SD_ICD_909_V11.pdf:126:  MW_PCU_RECEPTACLE_ON_TO_OFF                The power receptacle is going from on to off
+WID_SD_ICD_909_V11.pdf:126:  MW_PCU_RECEPTACLE_CYCLES_SCHEDULED The power receptacle has scheduled a cycle
+WID_SD_ICD_909_V11.pdf:161:            WAAS_PCU_A                        Power Conditioner Unit A
+WID_SD_ICD_909_V11.pdf:161:            WAAS_PCU_B                        Power Conditioner Unit B
+WID_SD_ICD_909_V11.pdf:161:            WAAS_PCU_C                        Power Conditioner Unit C
+WID_SD_ICD_909_V11.pdf:161:            WAAS_PCU_D                        Power Conditioner Unit D
+WID_SD_ICD_909_V11.pdf:161:            WAAS_PCU_E                        Power Conditioner Unit E
+WID_SD_ICD_909_V11.pdf:161:            WAAS_PCU_F                        Power Conditioner Unit F
+WID_SD_ICD_909_V11.pdf:161:            WAAS_PCU_G                        Power Conditioner Unit G
+WID_SD_ICD_909_V11.pdf:161:            WAAS_PCU_H                        Power Conditioner Unit H
+WID_SD_ICD_909_V11.pdf:162:            WAAS_PCU_I                             Power Conditioner Unit I
+WID_SD_ICD_909_V11.pdf:167:  PCU Poll                       "/waas/WAAS_MONITOR_WAAS/MWSE_pcupoll.dat"
+WID_SD_ICD_909_V11.pdf:178:         WAAS_PCU_A                       Power Conditioner Unit A
+WID_SD_ICD_909_V11.pdf:178:         WAAS_PCU_B                       Power Conditioner Unit B
+WID_SD_ICD_909_V11.pdf:178:         WAAS_PCU_C                       Power Conditioner Unit C
+WID_SD_ICD_909_V11.pdf:178:         WAAS_PCU_D                       Power Conditioner Unit D
+WID_SD_ICD_909_V11.pdf:178:         WAAS_PCU_E                       Power Conditioner Unit E
+WID_SD_ICD_909_V11.pdf:178:         WAAS_PCU_F                       Power Conditioner Unit F
+WID_SD_ICD_909_V11.pdf:178:         WAAS_PCU_G                       Power Conditioner Unit G
+WID_SD_ICD_909_V11.pdf:178:         WAAS_PCU_H                       Power Conditioner Unit H
+WID_SD_ICD_909_V11.pdf:178:         WAAS_PCU_I                       Power Conditioner Unit I
+WID_SD_ICD_909_V11.pdf:179:      WAAS_PCU_CONTROLLER                     Power Conditioner Unit Controller
+WID_SD_ICD_909_V11.pdf:179:      WAAS_PCU_RECEPTABLE_1                   Power Conditioner Unit Receptacle 1
+WID_SD_ICD_909_V11.pdf:179:      WAAS_PCU_RECEPTABLE_2                   Power Conditioner Unit Receptacle 2
+WID_SD_ICD_909_V11.pdf:179:      WAAS_PCU_RECEPTABLE_3                   Power Conditioner Unit Receptacle 3
+WID_SD_ICD_909_V11.pdf:179:      WAAS_PCU_RECEPTABLE_4                   Power Conditioner Unit Receptacle 4
+WID_SD_ICD_909_V11.pdf:179:      WAAS_PCU_RECEPTABLE_5                   Power Conditioner Unit Receptacle 5
+WID_SD_ICD_909_V11.pdf:180:       WAAS_PCU_RECEPTABLE_6                           Power Conditioner Unit Receptacle 6
+WID_SD_ICD_909_V11.pdf:180:       WAAS_PCU_RECEPTABLE_7                           Power Conditioner Unit Receptacle 7
+WID_SD_ICD_909_V11.pdf:180:       WAAS_PCU_RECEPTABLE_8                           Power Conditioner Unit Receptacle 8
+WID_SD_ICD_909_V11.pdf:201:PCU trap information. A structure of type MW_PC_TRAP_TYPE.
+WID_SD_ICD_909_V11.pdf:201:  MW_PCU_RECEPTACLE_OFF                      The power receptacle is off
+WID_SD_ICD_909_V11.pdf:201:  MW_PCU_RECEPTACLE_ON                       The power receptacle is on
+WID_SD_ICD_909_V11.pdf:201:  MW_PCU_RECEPTACLE_OFF_TO_ON                The power receptacle is going from off to on
+WID_SD_ICD_909_V11.pdf:201:  MW_PCU_RECEPTACLE_ON_TO_OFF                The power receptacle is going from on to off
+WID_SD_ICD_909_V11.pdf:201:  MW_PCU_RECEPTACLE_CYCLES_SCHEDULED The power receptacle has scheduled a cycle
