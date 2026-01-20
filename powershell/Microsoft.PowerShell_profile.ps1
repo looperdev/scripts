@@ -1,34 +1,41 @@
 # Startup python
 c:\code\pyenv\.venv\Scripts\activate.ps1
 
-#Set alias
 
-Set-Alias -Name np -Value notepad++.exe
 
 # Git Command Aliases
 Function gits {git  status}
 Function gita([String]$name) {git add $name}
 Function gitc([String]$message) {git commit -m $message}
 Function gitp {git push origin master}
-Function vi([String]$fn) {nvim $fn}
-Function vim([String]$fn) {nvim $fn}
-Function jo {notepad++.exe C:\\work\\00_docs\\Journal.md}
-Function palias {code "C:\Users\Jonathan P-CTR Loope\OneDrive - Federal Aviation Administration\Documents\PowerShell\Microsoft.PowerShell_profile.ps1"}
-Function crg([String]$search_str){clear; rg $search_str}
-# Function geo {cd "C:\work\04_Projects\cy26\WPR129649_GEO_BIAS"}
-
-Function pyenv {C:\code\pyenv\.venv\Scripts\activate.ps1}
-
 Function glazy([String]$message) {
     git add .;
     #git commit -m "update";
     git commit -m $message;
     git push origin master
 }
+Set-Alias -Name gs -Value gits -Force
+Set-Alias -Name ga -Value gita -Force
+Set-Alias -Name gc -Value gitc -Force
+Set-Alias -Name gp -Value gitp -Force
+
+#Set alias
+Set-Alias -Name log -Value c:\apps\logseq\logseq.exe
+Set-Alias -Name np -Value notepad++.exe
+
+
+
+Function vi([String]$fn) {nvim $fn}
+Function vim([String]$fn) {nvim $fn}
+Function jo {notepad++.exe C:\\work\\00_docs\\Journal.md}
+
+Function crg([String]$search_str){clear; rg $search_str}
+
+# Function geo {cd "C:\work\04_Projects\cy26\WPR129649_GEO_BIAS"}
 
 
 Function windirstat([String]$dirname) {c:\apps\windirstat\WinDirStat.exe $dirname}
-Function wds([String]$dirname) {c:\apps\windirstat\WinDirStat.exe $dirname}
+Set-Alias -Name wds -Value windirstat -Force
 
 Function co([String]$question) {
     $copilotURL = "https://copilot.microsoft.com";
@@ -50,14 +57,6 @@ function cut {
             ($inputobject -split $delimiter)[$field]
         }
     }
-}
-
-function geo {
-	cd "C:\work\04_Projects\cy26\geo_bias"
-}
-
-function m2 {
-	cd "C:\code\m2-dcp\"
 }
 
 # Install GoLang : winget install GoLang.Go
